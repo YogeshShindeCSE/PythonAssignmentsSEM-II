@@ -1,2 +1,1 @@
-# PythonAssignmentsSEM-II
-PythonAssignmentsSEM2
+# Python
